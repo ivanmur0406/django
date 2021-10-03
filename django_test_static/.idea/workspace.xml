@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="msg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="msg">
+    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="we are">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633284231399</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="we are">
+      <created>1633284325832</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633284325832</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="msg" />
-    <option name="LAST_COMMIT_MESSAGE" value="msg" />
+    <MESSAGE value="we are" />
+    <option name="LAST_COMMIT_MESSAGE" value="we are" />
   </component>
 </project>

@@ -6,4 +6,4 @@ from django.shortcuts import render
 def home(request):
     return render(request, "main/penguin_home.html")
 def door(request):
-    return render(request, "main/penguin_big.html")
+    return render(request, "main/penguin_db.html")

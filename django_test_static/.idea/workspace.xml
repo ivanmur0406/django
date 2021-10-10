@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я добавил бд" />
+    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я добавил бд">
+      <change afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_db.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1yjS3aNHbBeRYtd1ErxRx99qblP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

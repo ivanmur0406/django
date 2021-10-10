@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я дробавил бд">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я добавил бд" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633286472677</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="я добавил бд">
+      <created>1633286544340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633286544340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +139,7 @@
     <MESSAGE value="we are" />
     <MESSAGE value="it is" />
     <MESSAGE value="я дробавил бд" />
-    <option name="LAST_COMMIT_MESSAGE" value="я дробавил бд" />
+    <MESSAGE value="я добавил бд" />
+    <option name="LAST_COMMIT_MESSAGE" value="я добавил бд" />
   </component>
 </project>

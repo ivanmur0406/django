@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я добавил бд">
-      <change afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_db.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_big.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/penguin_home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b23232d-9913-45cd-a4df-59f2f90c7b38" name="Default Changelist" comment="я всё сломал(((" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/firstproject/main/templates/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../django-a725e76e84066522f1dfc35da543f6471be1c58d/django_test_static" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -121,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633286544340</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="я всё сломал(((">
+      <created>1633889995189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1633889995189</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +149,7 @@
     <MESSAGE value="it is" />
     <MESSAGE value="я дробавил бд" />
     <MESSAGE value="я добавил бд" />
-    <option name="LAST_COMMIT_MESSAGE" value="я добавил бд" />
+    <MESSAGE value="я всё сломал(((" />
+    <option name="LAST_COMMIT_MESSAGE" value="я всё сломал(((" />
   </component>
 </project>
